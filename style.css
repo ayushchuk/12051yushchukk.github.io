@@ -1,0 +1,86 @@
+body {
+	font-family: Comic Sans MC, COmic Sans, cursive;
+}
+header {
+	background: green;
+	height: 40px;
+}
+.znyzhka {
+	background-color: darkgreen;
+	position: absolute;
+	height: 40px;
+	width: 180px;
+	right: 100px;
+	top: 20px;
+}
+.znyzhkatext {
+	color: white;
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+	
+}
+li {
+	display: inline;
+	padding: 3%;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.baner {
+	background-image: url(baner_kava.jpg);
+	height: 500px;
+}
+p {
+	color: white;
+}
+#company {
+	padding-top: 120px;
+	font-size: 18px;
+	margin-left: 50%;
+}
+#category {
+	margin-left: 50%;
+	font-size: 26px;
+	font-weight: bold;
+}
+#price {
+	margin-left: 50%;
+	border: 2px solid white;
+	color: white;
+	background-color: black;
+}
+.zaklyk {
+	background-image: url(fon_dlya_kavy.png);
+	height: 160px;
+}
+#reestr {
+	font-size: 20px;
+	margin-top: 5px;
+}
+#zaklyk_kava {
+	float: left;
+}
+#bttn {
+	margin-top: 5px;
+	border: 2px solid white;
+	color: white;
+	background-color: black;
+}
+.text_m {
+	background-color: black;
+	height: 250px;
+	width: 25%;
+	float: left;
+}
+.photo_m {
+	background-image: url(baner_kava.jpg);
+	height: 250px;
+	width: 25%;
+	float: left;
+}
+h2 {
+	color: white;
+}
